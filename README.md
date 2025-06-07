@@ -41,4 +41,11 @@ Drop your intent in `/signal/join.md` or send a DM with the word: `yo`.
 If you’re reading this, you’ve already been watching long enough.  
 Now it’s time to build.
 
+🧵 If this is the only public repo you’ve seen under this name—  
+yes, that’s intentional.  
+Welcome to Recess.
+
+We’re not building a product.  
+We’re restoring a rhythm.
+
 — Pops + Vi + The Crew
